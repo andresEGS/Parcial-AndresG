@@ -1,0 +1,109 @@
+.box-one {
+    padding: 150px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-one a {
+    background: #f76540;
+    text-decoration: none;
+}
+
+.box-one a {
+    display: inline-block;
+    border: 1px solid #767676;
+    background-color: #938f8f;
+    border-radius: 10px;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 50px;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.box-one a:hover {
+    background: #f76540;
+    border-radius: 10px;
+}
+
+.box-one img {
+    border-radius: 10px;
+}
+
+
+.seccion1 {
+    padding: 20px 20px;
+    display: flex;
+}
+
+.seccion1 img {
+    margin: 10px;
+    height: 70px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.box-derivada {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.box-two-two {
+    padding: 30px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1 {
+    margin-left: 400px;
+}
+
+.box2 {
+    margin-right: 400px;
+}
+
+.box1 h3 {
+    margin-left: 25px;
+}
+
+.box2 h3 {
+    margin-left: 25px;
+}
+
+
+.box-two-two input {
+    width: 50px;
+}
+
+.Botoon {
+    display: inline-block;
+    border: 1px solid #656464;
+    background-color: #636363;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 650px;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 10px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.Botoon:hover {
+    background: #f76540;
+    border-radius: 10px;
+}
+
+input {
+
+    background-color: rgb(255, 255, 255);
+    padding: 90px 90px 90px 1010px;
+    margin: auto;
+
+}
